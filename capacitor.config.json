@@ -1,0 +1,14 @@
+{
+  "appId": "com.politicards.app",
+  "appName": "Politicards",
+  "webDir": "dist",
+  "server": {
+    "url": "https://politicards.com",
+    "cleartext": false
+  },
+  "android": {
+    "allowMixedContent": false,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  }
+}
