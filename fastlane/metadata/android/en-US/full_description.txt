@@ -1,0 +1,14 @@
+Politicards turns every member of the U.S. Congress into a trading card.
+
+Browse all 538 senators and representatives — each with their photo, party, state, committee roles, and live voting record stats displayed in a clean card format.
+
+Features:
+• All 535 voting members of the House and Senate plus non-voting delegates
+• Real-time vote sync — cards reflect the latest roll call data
+• Stat meters showing voting participation and party-line trends
+• Filter and search by state, party, or chamber
+• Clean, minimal design with dark mode support
+
+Politicards is an independent, open-source civics tool with no ads, no tracking, and no accounts required. Data is sourced from public government records.
+
+Source code is available on GitHub under the GPL-3.0 license.
