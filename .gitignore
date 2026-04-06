@@ -27,3 +27,18 @@ dist-ssr
 .env
 .env.*
 logs/
+
+# Generated data — produced by sync.js, not source code
+public/data/cards/
+public/data/members.json
+public/data/sync-manifest.json
+
+# Build artifacts
+politicards-android*.zip
+*.zip
+
+# Loose JSX duplicates in root
+App.jsx
+Browsepage.jsx
+Landing.jsx
+Searchpage.jsx
